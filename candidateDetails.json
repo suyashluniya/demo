@@ -1,8 +1,8 @@
 [{
-"basicDetails" :{	"Name": "John Smith",
-	"Candidate ID": "#784735",
-	"Phone": 9876598765,
-	"Email": "john_smith@intuit.com"},
+"basicDetails" :{	"name": "John Smith",
+	"cId": "#784735",
+	"phone": 9876598765,
+	"email": "john_smith@intuit.com"},
 	"candidateInfo": {
 		"Legal Last Name": "Smith",
 		"Legal First Name": "Joh",
