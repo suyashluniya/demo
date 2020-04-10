@@ -1,44 +1,48 @@
-[{
-"basicDetails" :{	"name": "John Smith",
-	"cId": "#784735",
-	"phone": 9876598765,
-	"email": "john_smith@intuit.com"},
-	"candidateInfo": {
-		"Legal Last Name": "Smith",
-		"Legal First Name": "Joh",
-		"Middle Initial": "KK",
-		"Preferred Last Name": "Smith",
-		"Preferred First Name": "Joh",
-		"Middle Initial": "KK",
-		"Location": "San Francisco, CA",
-		"Country": "United States",
-		"Start Date": "Jun 30, 2020",
-		"Offer Extended Date": "01 Jul 2020",
-		"Custom ID": "001 152",
-		"Req": "# 190243",
-		"Hiring Manager": "Donald Moss",
-		"Hiring Manager ID": "Anna Mariyam",
-		"TAC Name": "Lorm Ipsm",
-		"TA Cordinator": "Jimmy Gonzales",
-		"Scheduling TAC": "#001 2154",
-		"HRDS Admin": "Alax John",
-		"Job Band": "Lorm Ipsm"
-	},
-	"legalInfo": {
-		"Candidate Type": "Fultime",
-		"Hire Type": "Loem ipam",
-		"Person, Source Portal": "0005142",
-		"Employee Number": "26574 9543",
-		"Employee Type": "Seasonal",
-		"Visa": "",
-		"Job Code": "CCTS12",
-		"Business Title": "Seasonal Tax Expert",
-		"FLSA Type": "None-Exempt",
-		"BU/FG": "Lorem ipsm",
-		"Company": 101,
-		"Active CGD": "101-1040-1301",
-		"Group": "Loem ipam",
-		"Department": "Loem ipam",
-		"Hours": 25
-	}
-}]
+[
+   {
+      "BASICDETAILS":{
+         "NAME":"JOHN SMITH",
+         "CID":"#784735",
+         "PHONE":9876598765,
+         "EMAIL":"JOHN_SMITH@INTUIT.COM"
+      },
+      "CANDIDATEINFO":{
+         "LEGAL LAST NAME":"SMITH",
+         "LEGAL FIRST NAME":"JOH",
+         "MIDDLE INITIAL":"KK",
+         "PREFERRED LAST NAME":"SMITH",
+         "PREFERRED FIRST NAME":"JOH",
+         "MIDDLE INITIAL":"KK",
+         "LOCATION":"SAN FRANCISCO, CA",
+         "COUNTRY":"UNITED STATES",
+         "START DATE":"JUN 30, 2020",
+         "OFFER EXTENDED DATE":"01 JUL 2020",
+         "CUSTOM ID":"001 152",
+         "REQ":"# 190243",
+         "HIRING MANAGER":"DONALD MOSS",
+         "HIRING MANAGER ID":"ANNA MARIYAM",
+         "TAC NAME":"LORM IPSM",
+         "TA CORDINATOR":"JIMMY GONZALES",
+         "SCHEDULING TAC":"#001 2154",
+         "HRDS ADMIN":"ALAX JOHN",
+         "JOB BAND":"LORM IPSM"
+      },
+      "LEGALINFO":{
+         "CANDIDATE TYPE":"FULTIME",
+         "HIRE TYPE":"LOEM IPAM",
+         "PERSON, SOURCE PORTAL":"0005142",
+         "EMPLOYEE NUMBER":"26574 9543",
+         "EMPLOYEE TYPE":"SEASONAL",
+         "VISA":"",
+         "JOB CODE":"CCTS12",
+         "BUSINESS TITLE":"SEASONAL TAX EXPERT",
+         "FLSA TYPE":"NONE-EXEMPT",
+         "BU/FG":"LOREM IPSM",
+         "COMPANY":101,
+         "ACTIVE CGD":"101-1040-1301",
+         "GROUP":"LOEM IPAM",
+         "DEPARTMENT":"LOEM IPAM",
+         "HOURS":25
+      }
+   }
+]
