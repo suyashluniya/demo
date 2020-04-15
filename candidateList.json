@@ -24,7 +24,7 @@
         "DOCUSIGN_STATUS": "COMPLETE"
     },
     {
-        "APPLICANT_ID": "PRV4211805",
+		"APPLICANT_ID": "PRV4211805",
         "CANDIDATE_ID": null,
         "LEGAL_FIRST_NAME": "E2ETestingEmail1",
         "LEGAL_LAST_NAME": "Lawlogix1",
