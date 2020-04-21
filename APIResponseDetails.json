@@ -1,0 +1,36 @@
+{
+    "basicDetails": {
+        "CANDIDATE_ID": "I567845",
+        "LEGAL_FIRST_NAME": "TEST-mosc",
+        "LEGAL_LAST_NAME": "DATA-adr",
+        "LEGAL_MIDDLE_NAME": null,
+        "HOME_PHONE_NUMBER": "+1 (918) 9713933",
+        "PERSONAL_EMAIL": "TEST-moscDATA-adr@testmail.com"
+    },
+    "candidateInfo": {
+        "APPLICANT_ID": "PRV4211765",
+        "NATIONAL_ID_TYPE": null,
+        "NATIONAL_ID": "570645120",
+        "NATIONAL_ID_LAST_4_DIGITS": "5120",
+        "ADDRESS_LINE_1": "SR-1, flat#1234",
+        "ADDRESS_LINE_2": "Off Harlur road",
+        "CITY": "Bangalore",
+        "STATE": null,
+        "ZIP_CODE": "560103",
+        "COUNTRY": null,
+        "SECONDARY_HOME_PHONE": null,
+        "GENDER": "M",
+        "MARITAL_STATUS": "MARRIED",
+        "BIRTH_DATE": "1993-08-07",
+        "EMERGENCY_CONTACT_NAME": null,
+        "EMERGENCY_RELATIONSHIP": null,
+        "EMERGENCY_PRIMARY_NUMBER": null,
+        "EMERGENCY_ALTERNATE_NUMBER": null
+    },
+    "legalInfo": {
+        "BUSINESS_TITLE": "Bookkeeper Lead",
+        "REHIRE_DATE": "2020-03-08",
+        "DOCUSIGN_ID": "707070",
+        "DOCUSIGN_STATUS": "Completed"
+    }
+}
